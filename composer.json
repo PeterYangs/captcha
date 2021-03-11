@@ -1,0 +1,14 @@
+{
+    "name": "acebee/captcha",
+    "description": "验证码包",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "peter",
+            "email": "904801074@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
